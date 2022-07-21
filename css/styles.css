@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: darkcyan;
+}
+header img{
+    margin-left: 60px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+
+.nav-link{
+    color: black;
+    margin-left: 80px;
+    margin-top: 80px;
+    font-weight: bolder;
+}
+.row .col-10 img{
+width: 2vmax;
+margin-left: 10vmax;
+
+}
+.nav p{
+    font-weight: bolder;
+}
+
+.kell img{
+    margin-left: 40vmax;
+    margin-top: 3vmax;
+ 
+}
+/* body section  */
+.col-12 img{
+    margin-left: 30vmax;
+    margin-top: 5vmax;
+    margin-bottom: 5vmax;
+}
+.col-12 h6{
+    text-align: center;
+}
+.col-12 p{
+    text-align: center;
+    font-weight: lighter;
+}
+.femi{
+    background-color: purple;
+    height: 45vmax;
+    color: white;
+}
+.dropdown{
+    margin-bottom: 10px;
+}
